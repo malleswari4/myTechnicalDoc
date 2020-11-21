@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'E-commerce project using Java'
-copyright = '2020, Harideep'
-author = 'Harideep'
+project = 'House Sales prediction using machine Learning'
+copyright = '2020, Malleswari'
+author = 'Malleswari'
 
 # The full version, including alpha/beta/rc tags
 release = ''
