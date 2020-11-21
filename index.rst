@@ -11,7 +11,7 @@ Welcome to House prices prediction using ML
    :numbered:
    
    introduction.md
-   file2.md
+
    
    
 
